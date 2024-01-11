@@ -1,0 +1,10 @@
+.recipe-card .card-image {
+  height: 30em;
+}
+
+ .recipe-card .image {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+};
